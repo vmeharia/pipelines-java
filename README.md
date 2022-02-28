@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/vmeharia/app_project/_apis/build/status/pipelines-java?branchName=master)](https://dev.azure.com/vmeharia/app_project/_build/latest?definitionId=28&branchName=master)
+
 
 # Contributing
 
